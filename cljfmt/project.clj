@@ -1,6 +1,6 @@
-(defproject cljfmt "0.5.2"
-  :description "A library for formatting Clojure code"
-  :url "https://github.com/weavejester/cljfmt"
+(defproject cljfmt-mk "0.5.2"
+  :description "A forked library for formatting Clojure code"
+  :url "https://github.com/mikekap/cljfmt"
   :scm {:dir ".."}
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
